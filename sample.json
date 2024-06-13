@@ -1,10 +1,37 @@
 [
 {
 "id":1,
+"marks": 70,
 "name":"Vipin"
 },
 {
 "id":2,
-"name":"mouli"
-}
+"marks":60
+"name":"Rakesh"
+},
+{
+"id":3,
+"marks": 75,
+"name":"Prem"
+},
+{
+"id":4,
+"marks": 55,
+"name":"raj"
+},
+{
+"id":5,
+"marks": 70,
+"name":"Dharm"
+},
+{
+"id":6,
+"marks": 80,
+"name":"Kirpa"
+},
+{
+"id":7,
+"marks": 70,
+"name":"Basant"
+},
 ]
